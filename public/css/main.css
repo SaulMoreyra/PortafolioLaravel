@@ -1,0 +1,10 @@
+table{
+    border: 5px;
+}
+#campo_activo{
+    column-span: 2;
+    align-content: center;
+}
+#dark{
+    background-color: rgb(148, 148, 148)
+}
